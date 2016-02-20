@@ -585,6 +585,7 @@ https://rawgit.com/lyhbarry/google-homepage/master/index.html)
 * [Fabricio's Easy and Difficult Solutions](https://github.com/fcarrara/google-homepage) | [View in browser (Easy)](https://htmlpreview.github.io/?https://github.com/fcarrara/google-homepage/blob/master/index.html) | [View in browser (Difficult)](https://htmlpreview.github.io/?https://github.com/fcarrara/google-homepage/blob/master/results.html)
 * [Johnny Rasnic's Easy Solution](https://github.com/lonniganseaweed/google-homepage) | [Difficult solution](https://github.com/lonniganseaweed/google-search-results) | [View in browser (Easy)](https://htmlpreview.github.io/?https://github.com/lonniganseaweed/google-homepage/blob/master/index.html) | [View in browser (Difficult)](http://htmlpreview.github.io/?https://github.com/lonniganseaweed/google-search-results/blob/master/index.html)
 * [jellyparakeet's Easy Solution](https://github.com/jellyparakeet/google-homepage) | [View in browser](http://htmlpreview.github.io/?https://github.com/jellyparakeet/google-homepage/blob/master/index.html)
+* [Correct pr](https://github.com/kriox26/tempcurriculum)
 * Add your solution above this line!
 
 ## Additional Resources
